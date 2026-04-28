@@ -4,7 +4,7 @@
 
 ##  À propos de moi / About Me
 
-- 🎓 Étudiant en Génie Logiciel (DITI4) à GroupeISI, basé à Dakar 🇸🇳 / Software Engineering student at GroupeISI, based in Dakar.
+- 🎓 Étudiant en Génie Logiciel / Software Engineering student.
 - 💻 Je construis des applications web full-stack en Java, Spring Boot, .NET et JavaScript / I build full-stack web apps with Java, Spring Boot, .NET and JavaScript.
 - 🛒 Passionné par le e-commerce et les solutions digitales / Passionate about e-commerce and digital solutions.
 
