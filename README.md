@@ -18,8 +18,12 @@
 
 ## 📊 Stats
 
-![Précieux's GitHub stats](https://github-readme-stats.vercel.app/api?username=precieuxfassinou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Précieux's GitHub stats](https://github-readme-stats.vercel.app/api?username=precieuxfassinou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=precieuxfassinou&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=precieuxfassinou&theme=tokyonight&hide_border=true)
+
+[![Précieux's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=precieuxfassinou&theme=tokyo-night&hide_border=true)](https://github.com/precieuxfassinou)
 
 ---
 
