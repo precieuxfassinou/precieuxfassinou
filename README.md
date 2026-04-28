@@ -18,7 +18,7 @@
 
 ## 📊 Stats
 
-![Précieux's GitHub stats](https://github-readme-stats.vercel.app/api?username=precieuxfassinou&show_icons=true&theme=tokyonight&hide_border=true)
+![Précieux's GitHub stats](https://github-readme-stats.vercel.app/api?username=precieuxfassinou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=precieuxfassinou&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
