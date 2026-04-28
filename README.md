@@ -2,7 +2,7 @@
 
 **`Software Engineering Student — Full-Stack Developer`**
 
-## 🇫🇷 À propos de moi / 🇬🇧 About Me
+##  À propos de moi / About Me
 
 - 🎓 Étudiant en Génie Logiciel (DITI4) à GroupeISI, basé à Dakar 🇸🇳 / Software Engineering student at GroupeISI, based in Dakar.
 - 💻 Je construis des applications web full-stack en Java, Spring Boot, .NET et JavaScript / I build full-stack web apps with Java, Spring Boot, .NET and JavaScript.
