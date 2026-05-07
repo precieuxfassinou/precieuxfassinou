@@ -14,7 +14,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,html,css,postgres,mysql,maven,git,github,vscode,idea&theme=dark)
 
-](https://skillicons.dev)
+(https://skillicons.dev)
 
 **Aussi à l'aise avec / Also comfortable with**: Jakarta Servlets, JSP, Blazor Server, Entity Framework Core, H2, REST APIs, Bootstrap.
 
@@ -27,19 +27,11 @@
 ![Précieux's GitHub stats](https://github-readme-stats.vercel.app/api?username=precieuxfassinou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=precieuxfassinou&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
 
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=precieuxfassinou&theme=tokyonight&hide_border=true)
 
-
-
-[
 
 ![Précieux's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=precieuxfassinou&theme=tokyo-night&hide_border=true)
 
@@ -52,17 +44,11 @@
 - [**Portfolio**](https://precieuxfassinou.github.io/Portfolio/)
 - [**Contact**](mailto:precieuxfassinou@gmail.com)
 
-[
 
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
-
-](https://www.linkedin.com/in/pr%C3%A9cieux-fassinou-6460a9362)
-[
+(https://www.linkedin.com/in/pr%C3%A9cieux-fassinou-6460a9362)
 
 ![GitHub](https://skillicons.dev/icons?i=github)
-
-](https://github.com/precieuxfassinou)
-
-
+(https://github.com/precieuxfassinou)
 
 ![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
