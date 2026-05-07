@@ -10,8 +10,6 @@
 
 ## 🛠️ Skill stack
 
-[
-
 ![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,html,css,postgres,mysql,maven,git,github,vscode,idea&theme=dark)
 
 (https://skillicons.dev)
@@ -34,8 +32,7 @@
 
 
 ![Précieux's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=precieuxfassinou&theme=tokyo-night&hide_border=true)
-
-](https://github.com/precieuxfassinou)
+(https://github.com/precieuxfassinou)
 
 ---
 
