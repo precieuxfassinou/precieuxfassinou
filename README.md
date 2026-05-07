@@ -35,7 +35,7 @@
 
 
 
-![Streak](https://streak-stats.demolab.com/?user=precieuxfassinou&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=precieuxfassinou&theme=tokyonight&hide_border=true)
 
 
 
